@@ -111,3 +111,5 @@ console.log(
     veterinario1.getAnimais()[0].getNome()
     // posicao 0 do array
 );
+
+//como executar: node ./Ex7/usaClinica.js
